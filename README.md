@@ -19,5 +19,5 @@
 - 
 
 ## Links
-- [Portfolio](https://1nhan.github.io)
+- [[Portfolio](https://1nhan.github.io)](https://github.com/1nhan/CPP_common-sense)
 - [Resume](https://1nhan.github.io/Resume)
