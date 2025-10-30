@@ -19,4 +19,4 @@
 - 
 
 ## Links
-[![Portfolio](https://img.shields.io/badge/-학습과정-000000?style=flat&logo=githubpages&logoColor=white)][(https://1nhan.github.io)](https://github.com/1nhan/CPP_common-sense)
+[![Portfolio](https://img.shields.io/badge/-학습과정-000000?style=flat&logo=githubpages&logoColor=white)](https://github.com/1nhan/CPP_common-sense)
