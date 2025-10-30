@@ -1,13 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Inhan!
 
-🔧 Tech Stack<br>
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://github.com/1nhan)
+## 🎮 About Me
+클래식 게임 개발자입니다. 게임을 사랑하며, C, C++, Python, Java, Raspberry Pi를 활용한 프로젝트를 진행합니다.
+
+## 🧪 Tech Stack
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://github.com/1nhan)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/1nhan)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/1nhan)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://github.com/1nhan)
 
-📈 GitHub Stats<br>
+## 📈 GitHub Stats
 ![Inhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nhan&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=1nhan&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nhan&layout=compact&theme=tokyonight)
+
+## 🧩 Projects
+- 
+- 
+
+## 🌐 Links
+- [Portfolio](https://1nhan.github.io)
+- [Resume](https://1nhan.github.io/Resume)
