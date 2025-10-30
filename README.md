@@ -19,5 +19,5 @@
 - 
 
 ## Links
-[![Portfolio: 학습 과정과 결과를 기록한 자료](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://1nhan.github.io)
+[![Portfolio](https://img.shields.io/badge/-학습과정-000000?style=flat&logo=githubpages&logoColor=white)](https://1nhan.github.io)
 [![Resume](https://img.shields.io/badge/-Resume-007ACC?style=flat&logo=readme&logoColor=white)](https://1nhan.github.io/Resume)
