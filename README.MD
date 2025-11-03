@@ -8,7 +8,9 @@
 #### 🧭 Roadmap
 
 [![Projects](https://img.shields.io/badge/Game-Projects-orange?style=flat-square)](https://github.com/1nhan/Projects)
+
 [![Math for Dev](https://img.shields.io/badge/Math-for--Dev-green?style=flat-square)](https://github.com/1nhan/Math_for_dev)
+
 [![C++ Common Sense](https://img.shields.io/badge/C%2B%2B-common--sense-blue?style=flat-square)](https://github.com/1nhan/Cpp_Common_Sense)
 
 [![Graphics](https://img.shields.io/badge/-Graphics-lightgrey?style=flat-square)](#)<br>
@@ -16,6 +18,7 @@
 └─[![DirectX](https://img.shields.io/badge/-DirectX-black?style=flat-square)](#)<br>
 
 [![Qt UI](https://img.shields.io/badge/UI%20Design-Qt-purple?style=flat-square)](https://github.com/1nhan/Qt_UI_Design)
+
 [![REST API](https://img.shields.io/badge/Web-REST--API-red?style=flat-square)](https://github.com/1nhan/REST_API)
 
 
