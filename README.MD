@@ -7,12 +7,19 @@
 
 #### 🧭 Roadmap
 
-[![Projects](https://img.shields.io/badge/Game-Projects-orange?style=flat-square)](#)  
+[![Projects](https://img.shields.io/badge/Game-Projects-orange?style=flat-square)](https://github.com/1nhan/Projects)
+[![Math for Dev](https://img.shields.io/badge/Math-for--Dev-green?style=flat-square)](https://github.com/1nhan/Math_for_dev)
+[![C++ Common Sense](https://img.shields.io/badge/C%2B%2B-common--sense-blue?style=flat-square)](https://github.com/1nhan/Cpp_Common_Sense)
 
-[![Math for Dev](https://img.shields.io/badge/Math-for--Dev-green?style=flat-square)](#)  
-[![C++ Common Sense](https://img.shields.io/badge/C%2B%2B-common--sense-blue?style=flat-square)](#)  
+[![Graphics](https://img.shields.io/badge/-Graphics-lightgrey?style=flat-square)](#)<br>
+├─[![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat-square)](#)<br>
+└─[![DirectX](https://img.shields.io/badge/-DirectX-black?style=flat-square)](#)<br>
 
-[![Qt UI](https://img.shields.io/badge/UI%20Design-Qt-purple?style=flat-square)](#)  
-[![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-lightgrey?style=flat-square)](#)  
-[![DirectX](https://img.shields.io/badge/Graphics-DirectX-darkblue?style=flat-square)](#)  
-[![REST API](https://img.shields.io/badge/Web-REST--API-red?style=flat-square)](#)  
+[![Qt UI](https://img.shields.io/badge/UI%20Design-Qt-purple?style=flat-square)](https://github.com/1nhan/Qt_UI_Design)
+[![REST API](https://img.shields.io/badge/Web-REST--API-red?style=flat-square)](https://github.com/1nhan/REST_API)
+
+
+[![Database](https://img.shields.io/badge/-Database-lightgrey?style=flat-square)](#)<br>
+├─[![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square)](#)<br>
+├─[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square)](#)<br>
+└─[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square)](#)<br>
