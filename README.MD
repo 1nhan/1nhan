@@ -29,4 +29,4 @@
 └─[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square)](#)<br>
 
 
-![Contact](https://img.shields.io/badge/Contact-auroram4nia@gmail.com-blue?style=flat-square&logo=gmail)
+[![Contact](https://img.shields.io/badge/Contact-auroram4nia@gmail.com-blue?style=flat-square&logo=gmail)](mailto:auroram4nia@gmail.com)
