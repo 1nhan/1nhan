@@ -3,6 +3,7 @@
 안녕하세요! 이 깃허브는 클래식 게임 개발자 여정을 담은 공간입니다.  
 게임 개발을 위한 준비와 학습 과정, 그리고 개발에 필요한 아이디어와 경험을 공유하고자 합니다.
 
+
 ---
 
 #### 🧭 Roadmap
@@ -26,3 +27,6 @@
 ├─[![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square)](#)<br>
 ├─[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square)](#)<br>
 └─[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square)](#)<br>
+
+
+![Contact](https://img.shields.io/badge/Contact-auroram4nia@gmail.com-blue?style=flat-square&logo=gmail)
